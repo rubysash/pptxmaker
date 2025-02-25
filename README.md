@@ -65,8 +65,7 @@ The script expects a structured JSON file like this:
 ## Enhancements and Refinements
 This tool provides a structured starting point, but manual refinement is encouraged to improve slide aesthetics, adjust layouts, and enhance readability.
 
-## License
-This script is provided as-is with no warranties. Modify and use it at your discretion.
+
 
 ---
-**Author:** Generated for automation and efficiency in creating PowerPoint slides.
+
